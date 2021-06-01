@@ -38,17 +38,17 @@ Cyber Apocalypse is an online event hosted by hackthebox thereis number of machi
 ```
 ## SKILLS
 ```
-NAT OSI & TCP/IP VLAN
-Route Summarization Load Balancing
-Cisco Backup Router Firewalls Access Points
-Static Routing Dynamic Routing Subnetting
-Windows Operating System STP MPLS
-RADIUS TACACS Windows Server
-Linux Server GRE Python Programming
-BASH Shell Scripting Cloud Computing DNS
-Virtualisation VLAN VLAN Trunk
-Wireshark TCP dump JavaScript HTML
-Python PHP ReactJS
+. NAT OSI & TCP/IP VLAN
+. Route Summarization Load Balancing
+. Cisco Backup Router Firewalls Access Points
+. Static Routing Dynamic Routing Subnetting
+. Windows Operating System STP MPLS
+. RADIUS TACACS Windows Server
+. Linux Server GRE Python Programming
+. BASH Shell Scripting Cloud Computing DNS
+. Virtualisation VLAN VLAN Trunk
+. Wireshark TCP dump JavaScript HTML
+. Python PHP ReactJS
 ```
 ## PERSONAL PROJECTS
 ```
