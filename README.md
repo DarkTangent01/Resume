@@ -1,5 +1,7 @@
 # Mayank Srivastava
 
+[Resume](https://github.com/DarkTangent01/Resume/blob/main/Resumes/MayankResume.pdf)
+
 ## Network Engineer
 
 ```
