@@ -12,39 +12,28 @@ Uttar Pradesh, India darktangent01.github.io/mayankksrivastavaa/
 linkedin.com/in/mayanksrivastava
 ```
 ## ACADEMIC QUALIFICATION
-
-## Bachelor Of Computer Application
-
-## VEER BAHADUR SINGH PURVANCHAL
-
-## UNIVERSITY
-
 ```
+Bachelor Of Computer Application
+VEER BAHADUR SINGH PURVANCHAL UNIVERSITY
 06/2017 - 06/2020 , Jaunpur, 75%
 Crime Reporting
 System
 ```
 ## ADDITIONAL SKILLS AND EVENTS
-
-## Advent Of Cyber 2
-
-## TryHackMe
-
-### 12/2020 - 12/2020 ,
-
 ```
+Advent Of Cyber 2
+TryHackMe
+
+12/2020 - 12/2020 ,
 completed Advent Of cyber 2 2020 from tryhackme (Basic CyberSecurity knowledge & Experience
 ```
 ```
 Advent Of Cyber 2
 ```
-## Cyber Apocalypse
-
-## HACKTHEBOX
-
-### 04/2021 - 04/2021 ,
-
 ```
+Cyber Apocalypse
+HACKTHEBOX
+04/2021 - 04/2021 ,
 Cyber Apocalypse is an online event hosted by hackthebox thereis number of machine where we have to find vulnerability.
 ```
 ## SKILLS
@@ -62,10 +51,8 @@ Wireshark TCP dump JavaScript HTML
 Python PHP ReactJS
 ```
 ## PERSONAL PROJECTS
-
-## Crime Reporting System (05/2018 - 08/2020)
-
 ```
+Crime Reporting System (05/2018 - 08/2020)
 The objective to develop Online Crime Reporting System where users can lodge their crime online from home. Our
 project provides a facility to upload image and video of crime scenes to ensure that police may take an action immediately.
 ```
@@ -94,5 +81,3 @@ Hindi: Native or Bilingual Proficiency
 ```
 Playing Cricket Playing Capture The Flag
 ```
-```
-
